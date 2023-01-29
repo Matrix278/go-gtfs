@@ -38,7 +38,7 @@ type Route struct {
 // Trip -
 type Trip struct {
 	ID          string `csv:"trip_id"`
-	Name        string `csv:"trip_short_name"`
+	Name        string `csv:"trip_long_name"`
 	RouteID     string `csv:"route_id"`
 	ServiceID   string `csv:"service_id"`
 	ShapeID     string `csv:"shape_id"`
