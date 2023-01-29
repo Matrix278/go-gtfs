@@ -1,10 +1,10 @@
 # go-gtfs
 Load GTFS files in Go.
 
-[![godoc for artonge/go-gtfs](https://godoc.org/github.com/artonge/go-gtfs?status.svg)](http://godoc.org/github.com/artonge/go-gtfs)
+[![godoc for Matrix278/go-gtfs](https://godoc.org/github.com/Matrix278/go-gtfs?status.svg)](http://godoc.org/github.com/Matrix278/go-gtfs)
 
-![Go](https://github.com/artonge/go-gtfs/workflows/Go/badge.svg)
-[![goreportcard for artonge/go-gtfs](https://goreportcard.com/badge/github.com/artonge/go-gtfs)](https://goreportcard.com/report/artonge/go-gtfs)
+![Go](https://github.com/Matrix278/go-gtfs/workflows/Go/badge.svg)
+[![goreportcard for Matrix278/go-gtfs](https://goreportcard.com/badge/github.com/Matrix278/go-gtfs)](https://goreportcard.com/report/Matrix278/go-gtfs)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
@@ -12,7 +12,7 @@ Load GTFS files in Go.
 
 It is kept compatible with changes in the Go ecosystem but no new features will be developed. PR could be accepted.
 # Install
-`go get github.com/artonge/go-gtfs`
+`go get github.com/Matrix278/go-gtfs`
 
 # Examples
 ## Load one directory containing GTFS files:
